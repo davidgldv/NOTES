@@ -2,7 +2,7 @@
 
 En notacion de Backus-naur [x] = Number
 
-! Icono GDM](./imagenes/smd.jpg Viva Gnome 3 Shell)
+![Icono GDM](./imagenes/smd.jpg Viva Gnome 3 Shell)
 ##GNOME ( 3 Shell):
 
 * Meta(windows) = Panel lateral
