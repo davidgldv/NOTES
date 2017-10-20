@@ -13,6 +13,7 @@ mkdir = make dir.
 rm= remove
 rmdir: remover dir. (solo si esta vacio)
 rm -rf (*r*ecursivo *f*orce)
+mv:mover o cambiar de nombre un fichero
 git: 
 -clone 
 -commit 
@@ -34,4 +35,13 @@ cut:Corta vertical => cut -d "" -f 1
 split:Divide en horizontal
 tail -2 archivo 
 tail -f (deja el fichero abierto)
-head
+head: te muestra el principio de 
+
+
+##Comandos que filtran
+
+##Otras
+wget:Descargar de Internet
+tr: translate
+tr -s (squeeze):
+sort: ordenar
