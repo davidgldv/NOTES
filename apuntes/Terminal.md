@@ -7,3 +7,10 @@
 - &lt; : Redirigir la entrada.
 - &lt;&lt; : Here Document.
 - &lt;&lt;&lt; : Here string.
+
+##METACARACTERES
+~ : Mi directorio home
+. : Mi directorio actual 
+.. : El directorio de arriba
+
+-- (A veces el fichero )
