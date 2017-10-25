@@ -41,24 +41,33 @@ Siempre alerta estas
 - head: te muestra el principio de 
 
 
-##Comandos que filtrans
-
-
 ##Otras
 - wget:Descargar de Internet.
 - tr: translate.
 - tr -s (squeeze):
+- uniq -c:Deja filas unicas -c:cuenta
+- xargs:Ejecuta con argumentos.
+- which: Donde esta un programa.
 - sort: ordenar.
 - sort -n: ordenar numerico.
+- bc:calculadora.
+- cal:calendario. 
+- *: cualquier secuencia de 0 o mas caracteres.
+- rsync:Hace copias de seguridad
+- mysqldump: volcado de la base de datos
+- date: muestra la fecha
+- history: Muestra el historial
+- fg <n>:Trae un  proceso primero plano
+- jobs:Liusta de los procesos detenidos
+- ps aux:Vemos los procesos
+- kill: Matamos el proceso
+- kill -9 <pid>: Matar por la fuerza 
 
 ## Para Buscar
 - grep :filtra.
 - find:busca ficheros .
-- xargs:Ejecuta con argumentos.
-- which: Donde esta un programa.
 
 ## Comandos que trabajan con texto 
-- grep :filtra.
 - ed : Editor sin ventanas 
 - sed: lo mismo 
 - vi : (mejorado)
