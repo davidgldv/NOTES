@@ -9,13 +9,13 @@ En el manual si tiene un 1 es de la terminal si tiene el 2 es el nucleo del sist
 - &lt;&lt; : Here Document.
 - &lt;&lt;&lt; : Here string.
 
-##METACARACTERES
+## METACARACTERES
 
 - $ : Dime el valor de la variable.
 -&: Ejecuta en segundo plano 
 -\`:Ejecutar un comando y sustituir por el resultado
 
-##SISTEMA DE FICHEROS
+## SISTEMA DE FICHEROS
 - ~ : Mi directorio home.
 - . : Mi directorio actual. 
 - .. : El directorio de arriba.
@@ -28,7 +28,7 @@ En el manual si tiene un 1 es de la terminal si tiene el 2 es el nucleo del sist
 - []:ESpecificacion de caracteres.
 - {}:
 
-#Variable
+# Variable
 
 - # :Cantidad de parametros.
 
