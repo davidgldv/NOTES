@@ -26,13 +26,13 @@ Siempre alerta estas
 - touch:crea un directorio y si ya existe simplemente modifica la fecha de creacion.
 - file:
 
-## Comandos que unen 
+##Comandos que unen 
 
 - cat =concatenar
 - paste: unir en vertical
 - join: combinaciones
 
-## Comandos que dividen 
+##Comandos que dividen 
 
 - cut:Corta vertical => cut -d "" -f 1
 - split:Divide en horizontal
@@ -41,7 +41,8 @@ Siempre alerta estas
 - head: te muestra el principio de 
 
 
-## Otras
+##Otras
+
 - wget:Descargar de Internet.
 - tr: translate.
 - tr -s (squeeze):
@@ -63,11 +64,13 @@ Siempre alerta estas
 - kill: Matamos el proceso
 - kill -9 <pid>: Matar por la fuerza 
 
-## Para Buscar
+##Para Buscar
+
 - grep :filtra.
 - find:busca ficheros .
 
-## Comandos que trabajan con texto 
+##Comandos que trabajan con texto
+ 
 - ed : Editor sin ventanas 
 - sed: lo mismo 
 - vi : (mejorado)

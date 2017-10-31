@@ -13,13 +13,14 @@ En notacion de Backus-naur [x] = Number
 * Ctrl + alt + ↓ : Bajar al escritorio de abajo.
 * Meta + Space : Cambiar el idioma.
 * Meta +     = Maximizar la ventana.
+* Ctrl + h = Mostrar archivos ocultos
 
 ##TEXTO:
 
 * Ctrl+ + =Ampliar la fuente.
 * Ctrl+ - =Reducir la fuente.
 * Ctrl + c = Copiar.
-* Ctrl + v = pegar.
+* Ctrl + v = pegar.cat 
 * Ctrl + x = Cortar.
 * Ctrl + S +
 
